@@ -134,7 +134,6 @@ cmd/lc_changesmenu.png cmd/lc_trackchanges.png
 cmd/lc_charactermenu.png cmd/lc_fontdialog.png
 cmd/lc_fieldmenu.png cmd/lc_addfield.png
 cmd/lc_graphicmenu.png cmd/lc_avmediaplayer.png
-cmd/lc_insert.png cmd/lc_insertspreadsheet.png
 cmd/lc_insertauthorfield.png cmd/lc_dbviewaliases.png
 cmd/lc_insertavmedia.png cmd/lc_avmediaplayer.png
 cmd/lc_insertctrl.png cmd/lc_inserttable.png
@@ -178,7 +177,6 @@ cmd/sc_changesmenu.png cmd/sc_trackchanges.png
 cmd/sc_charactermenu.png cmd/sc_fontdialog.png
 cmd/sc_fieldmenu.png cmd/sc_addfield.png
 cmd/sc_graphicmenu.png cmd/sc_avmediaplayer.png
-cmd/sc_insert.png cmd/sc_insertspreadsheet.png
 cmd/sc_insertauthorfield.png cmd/sc_dbviewaliases.png
 cmd/sc_insertavmedia.png cmd/sc_avmediaplayer.png
 cmd/sc_insertctrl.png cmd/sc_inserttable.png
