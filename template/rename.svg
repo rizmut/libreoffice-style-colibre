@@ -28,7 +28,7 @@
   <defs
      id="defs47" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#fafafafff"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -97,11 +97,11 @@
        id="stop9" />
     <stop
        offset=".33333334"
-       stop-color="#fff"
+       stop-color="#fafafa"
        id="stop11" />
     <stop
        offset=".8888889"
-       stop-color="#fff"
+       stop-color="#fafafa"
        id="stop13" />
     <stop
        offset="1"

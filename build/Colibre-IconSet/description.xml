@@ -4,9 +4,9 @@
  xmlns:dep="http://openoffice.org/extensions/description/2006"
  xmlns:lo="http://libreoffice.org/extensions/description/2011"
  xmlns:xlink="http://www.w3.org/1999/xlink">
-    <identifier value="org.iconset.sukapura"/>
+    <identifier value="org.iconset.colibre"/>
 	<version value="7.0.0"/>
-    <display-name name="Sukapura Icon Set"/>
+    <display-name name="Colibre Icon Set"/>
     <dependencies>
         <lo:LibreOffice-minimal-version d:name="LibreOffice 6.0" value="6.0"/>
     </dependencies>
@@ -14,7 +14,7 @@
 	    <name xlink:href="https://sundara-os.blogspot.co.id">Rizal Muttaqin</name>
     </publisher>
     <icon>
-        <default xlink:href="icons/Sukapura-Theme.png"/>
+        <default xlink:href="icons/Colibre-Theme.png"/>
     </icon>
     <extension-description>
        <src xlink:href="pkg-desc/pkg-description.txt" />

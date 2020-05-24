@@ -15,6 +15,8 @@ do
     sed -i -e 's/#eac282/#fb983b/g' "$i" #yellow
     sed -i -e 's/#dc526d/#d42314/g' "$i" #dark red
     sed -i -e 's/#e68497/#ed3d3b/g' "$i" #red
+    sed -i -e 's/#d65532/#ed3d3b/g' "$i" #red
+    sed -i -e 's/#fff/#fafafa/g' "$i" #white
     sed -i -e 's/#76a797/#18ab50/g' "$i" #green
     sed -i -e 's/#588878/#309048/g' "$i" #dark green
     sed -i -e 's/#9868b9/#a846b2/g' "$i" #purple
