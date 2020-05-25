@@ -310,7 +310,7 @@ cmd/32/formatbulletsmenu.png cmd/32/defaultbullet.png
 cmd/32/formatframemenu.png cmd/32/framedialog.png
 cmd/32/formatimagemenu.png cmd/32/graphic.png
 cmd/32/formatspacingmenu.png cmd/32/spacepara15.png
-cmd/32/formattextmenu.png cmd/32/color.png
+cmd/32/formattextmenu.png cmd/32/charfontname.png
 cmd/32/textalign.png cmd/32/alignblock.png
 
 cmd/lc_anchormenu.png cmd/lc_toggleanchortype.png
@@ -319,7 +319,7 @@ cmd/lc_formatbulletsmenu.png cmd/lc_defaultbullet.png
 cmd/lc_formatframemenu.png cmd/lc_formatline.png
 cmd/lc_formatimagemenu.png cmd/lc_graphicdialog.png
 cmd/lc_formatspacingmenu.png cmd/lc_spacepara15.png
-cmd/lc_formattextmenu.png cmd/lc_color.png
+cmd/lc_formattextmenu.png cmd/lc_charfontname.png
 cmd/lc_textalign.png cmd/lc_alignblock.png
 
 cmd/sc_anchormenu.png cmd/sc_toggleanchortype.png
@@ -328,7 +328,7 @@ cmd/sc_formatbulletsmenu.png cmd/sc_defaultbullet.png
 cmd/sc_formatframemenu.png cmd/sc_formatline.png
 cmd/sc_formatimagemenu.png cmd/sc_graphicdialog.png
 cmd/sc_formatspacingmenu.png cmd/sc_spacepara15.png
-cmd/sc_formattextmenu.png cmd/sc_color.png
+cmd/sc_formattextmenu.png cmd/sc_charfontname.png
 cmd/sc_textalign.png cmd/sc_alignblock.png
 
 # Url
@@ -443,7 +443,7 @@ cmd/32/it/underlinesimple.png cmd/32/ca/underline.png
 cmd/32/km/underlinesimple.png cmd/32/km/underline.png
 cmd/32/ko/drawtext.png cmd/32/ko/text.png
 cmd/32/ko/fontcolor.png cmd/32/ko/color.png
-cmd/32/ko/formattextmenu.png cmd/32/ko/text.png
+cmd/32/ko/formattextmenu.png cmd/32/ko/charfontname.png
 cmd/32/ko/ordercrit.png cmd/32/ko/datasort.png
 cmd/32/ko/sortdown.png cmd/32/ko/sortdescending.png
 cmd/32/ko/sortup.png cmd/32/ko/sortascending.png
@@ -558,14 +558,14 @@ cmd/km/lc_underlinesimple.png cmd/km/lc_underline.png
 cmd/km/sc_underlinesimple.png cmd/km/sc_underline.png
 cmd/ko/lc_drawtext.png cmd/ko/lc_text.png
 cmd/ko/lc_fontcolor.png cmd/ko/lc_color.png
-cmd/ko/lc_formattextmenu.png cmd/ko/lc_text.png
+cmd/ko/lc_formattextmenu.png cmd/ko/lc_charfontname.png
 cmd/ko/lc_ordercrit.png cmd/ko/lc_datasort.png
 cmd/ko/lc_sortdown.png cmd/ko/lc_sortdescending.png
 cmd/ko/lc_sortup.png cmd/ko/lc_sortascending.png
 cmd/ko/lc_underlinesimple.png cmd/ko/lc_underline.png
 cmd/ko/sc_drawtext.png cmd/ko/sc_text.png
 cmd/ko/sc_fontcolor.png cmd/ko/sc_color.png
-cmd/ko/sc_formattextmenu.png cmd/ko/sc_text.png
+cmd/ko/sc_formattextmenu.png cmd/ko/sc_charfontname.png
 cmd/ko/sc_ordercrit.png cmd/ko/sc_datasort.png
 cmd/ko/sc_sortdown.png cmd/ko/sc_sortdescending.png
 cmd/ko/sc_sortup.png cmd/ko/sc_sortascending.png
@@ -1532,11 +1532,8 @@ cmd/sc_connectorlinescircles.png cmd/sc_connector.png
 cmd/sc_connectortoolbox.png cmd/sc_connector.png
 
 # Time
-cmd/32/numberformattime.png cmd/32/timefield.png
 cmd/32/rehearsetimings.png cmd/32/diatime.png
-cmd/lc_numberformattime.png cmd/lc_timefield.png
 cmd/lc_rehearsetimings.png cmd/lc_diatime.png
-cmd/sc_numberformattime.png cmd/sc_timefield.png
 cmd/sc_rehearsetimings.png cmd/sc_diatime.png
 
 # Arrange
