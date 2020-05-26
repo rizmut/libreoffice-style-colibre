@@ -1360,14 +1360,9 @@ cmd/lc_hyphenation.png cmd/lc_hyphenate.png
 cmd/sc_hyphenation.png cmd/sc_hyphenate.png
 
 # Currency
-cmd/32/numberformatcurrency.png cmd/32/currencyfield.png
-cmd/32/numberformatcurrencysimple.png cmd/32/currencyfield.png
-
-cmd/lc_numberformatcurrency.png cmd/lc_currencyfield.png
-cmd/lc_numberformatcurrencysimple.png cmd/lc_currencyfield.png
-
-cmd/sc_numberformatcurrency.png cmd/sc_currencyfield.png
-cmd/sc_numberformatcurrencysimple.png cmd/sc_currencyfield.png
+cmd/32/numberformatcurrencysimple.png cmd/32/numberformatcurrency.png
+cmd/lc_numberformatcurrencysimple.png cmd/lc_numberformatcurrency.png
+cmd/sc_numberformatcurrencysimple.png cmd/sc_numberformatcurrency.png
 
 # Fontwork
 cmd/32/fontworkshapetype.png cmd/32/fontwork.png
