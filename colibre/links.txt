@@ -2209,8 +2209,8 @@ sfx2/res/signet.png cmd/sc_signature.png
 
 sfx2/res/symphony/sidebar-3d-large.png cmd/lc_cube.png
 sfx2/res/symphony/sidebar-3d-small.png cmd/sc_cube.png
-sfx2/res/symphony/sidebar-animation-large.png cmd/lc_animationobjects.png
-sfx2/res/symphony/sidebar-animation-small.png cmd/sc_animationobjects.png
+sfx2/res/symphony/sidebar-animation-large.png cmd/lc_diaeffect.png
+sfx2/res/symphony/sidebar-animation-small.png cmd/sc_diaeffect.png
 sfx2/res/symphony/sidebar-colors-large.png cmd/lc_bmpmask.png
 sfx2/res/symphony/sidebar-colors-small.png cmd/sc_bmpmask.png
 sfx2/res/symphony/sidebar-eyedropper-large.png cmd/lc_bmpmask.png
