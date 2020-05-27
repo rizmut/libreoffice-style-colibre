@@ -117,9 +117,10 @@ cmd/32/insertnumericfield.png cmd/32/numberformatstandard.png
 cmd/32/insertobjectchart.png cmd/32/drawchart.png
 cmd/32/insertobjectdialog.png cmd/32/insertobject.png
 cmd/32/insertobjectstarmath.png cmd/32/insertmath.png
+cmd/32/insertpagefooter.png cmd/32/insertfooter.png
+cmd/32/insertpageheader.png cmd/32/insertheader.png
 cmd/32/insertpatternfield.png cmd/32/patternfield.png
 cmd/32/insertpushbutton.png cmd/32/pushbutton.png
-cmd/32/insertrowbreak.png cmd/32/insertpagebreak.png
 cmd/32/inserttextframe.png cmd/32/insertframe.png
 cmd/32/inserttimefield.png cmd/32/timefield.png
 cmd/32/insobjctrl.png cmd/32/newdoc.png
@@ -160,9 +161,10 @@ cmd/lc_insertnumericfield.png cmd/lc_numberformatstandard.png
 cmd/lc_insertobjectchart.png cmd/lc_drawchart.png
 cmd/lc_insertobjectdialog.png cmd/lc_insertobject.png
 cmd/lc_insertobjectstarmath.png cmd/lc_insertmath.png
+cmd/lc_insertpagefooter.png cmd/lc_insertfooter.png
+cmd/lc_insertpageheader.png cmd/lc_insertheader.png
 cmd/lc_insertpatternfield.png cmd/lc_patternfield.png
 cmd/lc_insertpushbutton.png cmd/lc_pushbutton.png
-cmd/lc_insertrowbreak.png cmd/lc_insertpagebreak.png
 cmd/lc_inserttextframe.png cmd/lc_insertframe.png
 cmd/lc_inserttimefield.png cmd/lc_timefield.png
 cmd/lc_insobjctrl.png cmd/lc_newdoc.png
@@ -170,9 +172,8 @@ cmd/lc_numberingmenu.png cmd/lc_outlinebullet.png
 cmd/lc_numericfield.png cmd/lc_numberformatstandard.png
 cmd/lc_paragraphmenu.png cmd/lc_paragraphdialog.png
 cmd/lc_shapesmenu.png cmd/lc_insertdraw.png
-cmd/lc_showtrackedchanges.png cmd/lc_addwatch.png
 cmd/lc_tracechangemode.png cmd/lc_trackchanges.png
-cmd/lc_viewtrackchanges.png cmd/lc_addwatch.png
+cmd/lc_viewtrackchanges.png cmd/lc_showtrackedchanges.png
 cmd/sc_changesmenu.png cmd/sc_trackchanges.png
 cmd/sc_charactermenu.png cmd/sc_fontdialog.png
 cmd/sc_fieldmenu.png cmd/sc_addfield.png
@@ -203,9 +204,10 @@ cmd/sc_insertnumericfield.png cmd/sc_numberformatstandard.png
 cmd/sc_insertobjectchart.png cmd/sc_drawchart.png
 cmd/sc_insertobjectdialog.png cmd/sc_insertobject.png
 cmd/sc_insertobjectstarmath.png cmd/sc_insertmath.png
+cmd/sc_insertpagefooter.png cmd/sc_insertfooter.png
+cmd/sc_insertpageheader.png cmd/sc_insertheader.png
 cmd/sc_insertpatternfield.png cmd/sc_patternfield.png
 cmd/sc_insertpushbutton.png cmd/sc_pushbutton.png
-cmd/sc_insertrowbreak.png cmd/sc_insertpagebreak.png
 cmd/sc_inserttextframe.png cmd/sc_insertframe.png
 cmd/sc_inserttimefield.png cmd/sc_timefield.png
 cmd/sc_insobjctrl.png cmd/sc_newdoc.png
@@ -213,9 +215,8 @@ cmd/sc_numberingmenu.png cmd/sc_outlinebullet.png
 cmd/sc_numericfield.png cmd/sc_numberformatstandard.png
 cmd/sc_paragraphmenu.png cmd/sc_paragraphdialog.png
 cmd/sc_shapesmenu.png cmd/sc_insertdraw.png
-cmd/sc_showtrackedchanges.png cmd/sc_addwatch.png
 cmd/sc_tracechangemode.png cmd/sc_trackchanges.png
-cmd/sc_viewtrackchanges.png cmd/sc_addwatch.png
+cmd/sc_viewtrackchanges.png cmd/sc_showtrackedchanges.png
 
 
 #View Menu
@@ -386,7 +387,8 @@ cmd/lc_deletenote.png cmd/lc_deleteannotation.png
 cmd/lc_insertannotation.png cmd/lc_shownote.png
 cmd/lc_notevisible.png cmd/lc_shownote.png
 cmd/lc_showallnotes.png cmd/lc_showannotations.png
-cmd/lc_showchanges.png cmd/lc_addwatch.png
+cmd/lc_showchanges.png cmd/lc_showtrackedchanges.png
+
 cmd/sc_acceptchanges.png cmd/sc_accepttrackedchanges.png
 cmd/sc_accepttracedchange.png cmd/sc_accepttrackedchange.png
 cmd/sc_commentchange.png cmd/sc_commentchangetracking.png
@@ -397,7 +399,7 @@ cmd/sc_formatallnotes.png cmd/sc_editannotation.png
 cmd/sc_insertannotation.png cmd/sc_shownote.png
 cmd/sc_notevisible.png cmd/sc_shownote.png
 cmd/sc_showallnotes.png cmd/sc_showannotations.png
-cmd/sc_showchanges.png cmd/sc_addwatch.png
+cmd/sc_showchanges.png cmd/sc_showtrackedchanges.png
 
 # Locale language support
 cmd/32/ar/bulletliststyle.png cmd/32/ar/defaultbullet.png
@@ -417,7 +419,10 @@ cmd/32/es/underline.png cmd/32/ca/underline.png
 cmd/32/es/underlinedouble.png cmd/32/ca/underlinedouble.png
 cmd/32/es/underlinesimple.png cmd/32/ca/underline.png
 cmd/32/fa/recundo.png cmd/32/redo.png
-cmd/32/fa/redo.png cmd/32/undo.png	
+cmd/32/fa/redo.png cmd/32/undo.png
+cmd/32/fa/removebullets.png cmd/32/ar/removebullets.png
+cmd/32/fa/romanliststyle.png cmd/32/ar/romanliststyle.png
+cmd/32/fa/romanlowliststyle.png cmd/32/ar/romanlowliststyle.png
 cmd/32/fa/undo.png cmd/32/redo.png
 cmd/32/fr/numberformatdecdecimals.png cmd/32/de/numberformatdecdecimals.png
 cmd/32/fr/numberformatdecimal.png cmd/32/de/numberformatdecimal.png
@@ -633,9 +638,9 @@ cmd/lc_templatemenu.png cmd/lc_adddirect.png
 cmd/sc_templatemenu.png cmd/sc_adddirect.png
 
 # Animation
-cmd/32/customanimation.png cmd/32/animationobjects.png
-cmd/lc_customanimation.png cmd/lc_animationobjects.png
-cmd/sc_customanimation.png cmd/sc_animationobjects.png
+cmd/32/customanimation.png cmd/32/diaeffect.png
+cmd/lc_customanimation.png cmd/lc_diaeffect.png
+cmd/sc_customanimation.png cmd/sc_diaeffect.png
 
 # Media
 cmd/32/datastreamsplay.png cmd/32/runbasic.png
@@ -916,16 +921,12 @@ cmd/sc_fieldnames.png cmd/sc_addfield.png
 # Edit
 cmd/32/dsbeditdoc.png cmd/32/editdoc.png
 cmd/32/quickedit.png cmd/32/editdoc.png
-cmd/32/renamemasterpage.png cmd/32/slidemasterpage.png
 
 cmd/lc_dsbeditdoc.png cmd/lc_editdoc.png
 cmd/lc_quickedit.png cmd/lc_editdoc.png
-cmd/lc_renamemasterpage.png cmd/lc_slidemasterpage.png
 
 cmd/sc_dsbeditdoc.png cmd/sc_editdoc.png
 cmd/sc_quickedit.png cmd/sc_editdoc.png
-cmd/sc_renamemasterpage.png cmd/sc_slidemasterpage.png
-
 
 # Quit
 cmd/32/closewin.png cmd/32/closepreview.png
@@ -949,11 +950,6 @@ cmd/lc_no.png cmd/lc_cancel.png
 cmd/lc_removetableof.png cmd/lc_cancel.png
 cmd/sc_no.png cmd/sc_cancel.png
 cmd/sc_removetableof.png cmd/sc_cancel.png
-
-# Protect
-cmd/32/protecttracechangemode.png cmd/32/protect.png
-cmd/lc_protecttracechangemode.png cmd/lc_protect.png
-cmd/sc_protecttracechangemode.png cmd/sc_protect.png
 
 # Page
 cmd/32/insertobjctrl.png cmd/32/drawchart.png
@@ -1072,14 +1068,14 @@ cmd/lc_hyperlinkdialog.png cmd/lc_inserthyperlink.png
 cmd/sc_hyperlinkdialog.png cmd/sc_inserthyperlink.png
 
 # Spellcheck
-cmd/32/spellingandgrammardialog.png cmd/32/spelling.png
 cmd/32/spelldialog.png cmd/32/spelling.png
+cmd/32/spellingandgrammardialog.png cmd/32/spelling.png
 
-cmd/lc_spellingandgrammardialog.png cmd/lc_spelling.png
 cmd/lc_spelldialog.png cmd/lc_spelling.png
+cmd/lc_spellingandgrammardialog.png cmd/lc_spelling.png
 
-cmd/sc_spellingandgrammardialog.png cmd/sc_spelling.png
 cmd/sc_spelldialog.png cmd/sc_spelling.png
+cmd/sc_spellingandgrammardialog.png cmd/sc_spelling.png
 
 # Color
 cmd/32/backgroundpatterncontroller.png cmd/32/backgroundcolor.png
@@ -1131,9 +1127,15 @@ cmd/lc_thesaurusdialog.png cmd/lc_thesaurus.png
 cmd/sc_thesaurusdialog.png cmd/sc_thesaurus.png
 
 # View
+cmd/32/availabletoolbars.png cmd/32/showtoolbar.png
 cmd/32/sidebarmenu.png cmd/32/sidebar.png
-cmd/sc_sidebarmenu.png cmd/sc_sidebar.png
+cmd/32/toolbarsmenu.png cmd/32/showtoolbar.png
+cmd/lc_availabletoolbars.png cmd/lc_showtoolbar.png
 cmd/lc_sidebarmenu.png cmd/lc_sidebar.png
+cmd/lc_toolbarsmenu.png cmd/lc_showtoolbar.png
+cmd/sc_availabletoolbars.png cmd/sc_showtoolbar.png
+cmd/sc_sidebarmenu.png cmd/sc_sidebar.png
+cmd/sc_toolbarsmenu.png cmd/sc_showtoolbar.png
 
 # Vertical Text Alignment
 cmd/32/cellvertbottom.png cmd/32/alignbottom.png
@@ -1240,34 +1242,31 @@ cmd/sc_rectangletoolbox.png cmd/sc_rect.png
 # Format
 cmd/32/insertcurrentdate.png cmd/32/datefield.png
 cmd/32/insertcurrenttime.png cmd/32/timefield.png
-cmd/32/insertobjectchartfromfile.png cmd/32/open.png
+cmd/32/insertobjectchartfromfile.png cmd/32/drawchart.png
 cmd/32/pageformatdialog.png cmd/32/pagedialog.png
 
 cmd/lc_insertcurrentdate.png cmd/lc_datefield.png
 cmd/lc_insertcurrenttime.png cmd/lc_timefield.png
-cmd/lc_insertobjectchartfromfile.png cmd/lc_open.png
+cmd/lc_insertobjectchartfromfile.png cmd/lc_drawchart.png
 cmd/lc_pageformatdialog.png cmd/lc_pagedialog.png
 
 cmd/sc_insertcurrentdate.png cmd/sc_datefield.png
 cmd/sc_insertcurrenttime.png cmd/sc_timefield.png
-cmd/sc_insertobjectchartfromfile.png cmd/sc_open.png
+cmd/sc_insertobjectchartfromfile.png cmd/sc_drawchart.png
 cmd/sc_pageformatdialog.png cmd/sc_pagedialog.png
 
 # Notebookbar
 cmd/32/datafilterhideautofilter.png cmd/32/removefiltersort.png
-cmd/32/dataproviderrefresh.png cmd/32/calculate.png
 cmd/32/headerandfooter.png cmd/32/editheaderandfooter.png
 cmd/32/insertheaderfootermenu.png cmd/32/editheaderandfooter.png
 cmd/32/insertsignatureline.png cmd/32/signaturelinedialog.png
 
 cmd/lc_datafilterhideautofilter.png cmd/lc_removefiltersort.png
-cmd/lc_dataproviderrefresh.png cmd/lc_calculate.png
 cmd/lc_headerandfooter.png cmd/lc_editheaderandfooter.png
 cmd/lc_insertheaderfootermenu.png cmd/lc_editheaderandfooter.png
 cmd/lc_insertsignatureline.png cmd/lc_signaturelinedialog.png
 
 cmd/sc_datafilterhideautofilter.png cmd/sc_removefiltersort.png
-cmd/sc_dataproviderrefresh.png cmd/sc_calculate.png
 cmd/sc_headerandfooter.png cmd/sc_editheaderandfooter.png
 cmd/sc_insertheaderfootermenu.png cmd/sc_editheaderandfooter.png
 cmd/sc_insertsignatureline.png cmd/sc_signaturelinedialog.png
@@ -1306,40 +1305,51 @@ cmd/sc_scrolltonext.png cmd/sc_downsearch.png
 cmd/sc_scrolltoprevious.png cmd/sc_upsearch.png
 
 # File Menu
+cmd/32/exportasmenu.png cmd/32/exportto.png
 cmd/32/exporttoepub.png cmd/32/exportdirecttoepub.png
 cmd/32/exporttopdf.png cmd/32/exportdirecttopdf.png
+cmd/32/templatemenu.png cmd/32/templatemanager.png
 
+cmd/lc_exportasmenu.png cmd/lc_exportto.png
 cmd/lc_exporttoepub.png cmd/lc_exportdirecttoepub.png
 cmd/lc_exporttopdf.png cmd/lc_exportdirecttopdf.png
+cmd/lc_templatemenu.png cmd/lc_templatemanager.png
 
+cmd/sc_exportasmenu.png cmd/sc_exportto.png
 cmd/sc_exporttoepub.png cmd/sc_exportdirecttoepub.png
 cmd/sc_exporttopdf.png cmd/sc_exportdirecttopdf.png
+cmd/sc_templatemenu.png cmd/sc_templatemanager.png
+
+# Edit Menu
+cmd/32/editlinksmenu.png cmd/32/insertreferencefield.png
+cmd/lc_editlinksmenu.png cmd/lc_insertreferencefield.png
+cmd/sc_editlinksmenu.png cmd/sc_insertreferencefield.png
 
 # Square
-cmd/32/basicshapes.frame.png cmd/32/rect_unfilled.png
 cmd/32/basicshapes.quadrat.png cmd/32/square.png
 cmd/32/flowchartshapes.flowchart-process.png cmd/32/square.png
 
-cmd/lc_basicshapes.frame.png cmd/lc_rect_unfilled.png
 cmd/lc_basicshapes.quadrat.png cmd/lc_square.png
 cmd/lc_flowchartshapes.flowchart-process.png cmd/lc_square.png
 
-cmd/sc_basicshapes.frame.png cmd/sc_rect_unfilled.png
 cmd/sc_basicshapes.quadrat.png cmd/sc_square.png
 cmd/sc_flowchartshapes.flowchart-process.png cmd/sc_square.png
 
 # Sort
 cmd/32/ordercrit.png cmd/32/datasort.png
+cmd/32/sortdialog.png cmd/32/datasort.png
 cmd/32/sortdown.png cmd/32/sortdescending.png
 cmd/32/sortup.png cmd/32/sortascending.png
 cmd/32/tablesort.png cmd/32/sortascending.png
 
 cmd/lc_ordercrit.png cmd/lc_datasort.png
+cmd/lc_sortdialog.png cmd/lc_datasort.png
 cmd/lc_sortdown.png cmd/lc_sortdescending.png
 cmd/lc_sortup.png cmd/lc_sortascending.png
 cmd/lc_tablesort.png cmd/lc_sortascending.png
 
 cmd/sc_ordercrit.png cmd/sc_datasort.png
+cmd/sc_sortdialog.png cmd/sc_datasort.png
 cmd/sc_sortdown.png cmd/sc_sortdescending.png
 cmd/sc_sortup.png cmd/sc_sortascending.png
 cmd/sc_tablesort.png cmd/sc_sortascending.png
@@ -1350,9 +1360,9 @@ cmd/lc_sourceview.png cmd/lc_symbolshapes.brace-pair.png
 cmd/sc_sourceview.png cmd/sc_symbolshapes.brace-pair.png
 
 # Config
-cmd/32/formatselection.png cmd/32/formproperties.png
-cmd/lc_formatselection.png cmd/lc_formproperties.png
-cmd/sc_formatselection.png cmd/sc_formproperties.png
+cmd/32/formatselection.png cmd/32/configuredialog.png
+cmd/lc_formatselection.png cmd/lc_configuredialog.png
+cmd/sc_formatselection.png cmd/sc_configuredialog.png
 
 # Hyphenation
 cmd/32/hyphenation.png cmd/32/hyphenate.png
@@ -1704,8 +1714,8 @@ cmd/sc_charbackcolor.png cmd/sc_backcolor.png
 cmd/sc_setdefault.png cmd/sc_resetattributes.png
 
 # Impress
-cmd/sc_slidechangewindow.png sfx2/res/symphony/sidebar-transition-small.png
-cmd/lc_slidechangewindow.png sfx2/res/symphony/sidebar-transition-large.png
+sfx2/res/symphony/sidebar-transition-small.png cmd/sc_slidechangewindow.png
+sfx2/res/symphony/sidebar-transition-large.png cmd/lc_slidechangewindow.png
 
 # Toggle graphics visibility in Writer
 cmd/32/showgraphics.png cmd/32/graphic.png
@@ -1911,8 +1921,7 @@ reportdesign/res/sx12594.png cmd/sc_dbviewfunctions.png
 # ==============================================
 res/adrbook.png cmd/sc_viewdatasourcebrowser.png
 res/browse.png cmd/sc_browseview.png
-res/baswatr.png cmd/lc_addwatch.png
-res/dir-clos.png cmd/sc_open.png
+res/dir-clos.png svtools/res/folder.png
 res/dir-open.png cmd/sc_open.png
 res/extension_plus_26.png cmd/lc_insertplugin.png
 res/extension_plus_32.png cmd/32/insertplugin.png
@@ -2168,7 +2177,7 @@ sd/res/waiticon.png cmd/sc_mediapause.png
 sfx2/res/actionaction012.png cmd/lc_recsearch.png
 sfx2/res/actionaction013.png cmd/lc_controlproperties.png
 sfx2/res/actiontemplates015.png cmd/lc_ok.png
-sfx2/res/actiontemplates016.png cmd/lc_formproperties.png
+sfx2/res/actiontemplates016.png cmd/lc_configuredialog.png
 sfx2/res/actiontemplates018.png cmd/lc_delete.png
 sfx2/res/actiontemplates019.png cmd/lc_editdoc.png
 sfx2/res/actiontemplates020.png cmd/lc_exportto.png
@@ -2212,8 +2221,8 @@ sfx2/res/symphony/sidebar-gallery-large.png cmd/lc_gallery.png
 sfx2/res/symphony/sidebar-gallery-small.png cmd/sc_gallery.png
 sfx2/res/symphony/sidebar-navigator-large.png cmd/lc_navigator.png
 sfx2/res/symphony/sidebar-navigator-small.png cmd/sc_navigator.png
-sfx2/res/symphony/sidebar-property-large.png cmd/lc_formproperties.png
-sfx2/res/symphony/sidebar-property-small.png cmd/sc_formproperties.png
+sfx2/res/symphony/sidebar-property-large.png cmd/lc_configuredialog.png
+sfx2/res/symphony/sidebar-property-small.png cmd/sc_configuredialog.png
 sfx2/res/symphony/sidebar-style-large.png cmd/lc_designerdialog.png
 sfx2/res/symphony/sidebar-style-small.png cmd/sc_designerdialog.png
 sfx2/res/symphony/sidebar-template-large.png cmd/lc_slidemasterpage.png
@@ -2230,8 +2239,8 @@ startmath/res/im21108.png cmd/lc_outlineformat.png
 # svtools
 # ==============================================
 # FolderTree expanded icon
-svtools/res/back_small.png cmd/sc_prevrecord.png
 svtools/res/back_large.png cmd/lc_prevrecord.png
+svtools/res/back_small.png cmd/sc_prevrecord.png
 svtools/res/bmpfont.png cmd/color.png
 svtools/res/ed06.png dbaccess/res/pkey.png
 svtools/res/folderop.png cmd/sc_open.png
@@ -2345,8 +2354,8 @@ svx/res/AdjustColorGreen_16x16.png cmd/sc_grafgreen.png
 svx/res/AdjustColorRed_16x16.png cmd/sc_grafred.png
 svx/res/AdjustColorGamma_16x16.png cmd/sc_grafgamma.png
 
-svx/res/symphony/lpselected-spacing-1_15.png cmd/lc_spacepara1.png
 svx/res/symphony/lpselected-spacing-1.png cmd/lc_spacepara1.png
+svx/res/symphony/lpselected-spacing-1_15.png cmd/lc_spacepara1.png
 svx/res/symphony/lpselected-spacing-1_5.png cmd/lc_spacepara15.png
 svx/res/symphony/lpselected-spacing-2.png cmd/lc_spacepara2.png
 svx/res/symphony/lpsmall-spacing-1.png cmd/lc_spacepara1.png
@@ -2483,22 +2492,17 @@ cmd/lc_toolprotectiondocument.png cmd/lc_protect.png
 cmd/32/renametable.png cmd/32/name.png
 cmd/32/settabbgcolor.png cmd/32/backgroundcolor.png
 cmd/32/sheetrighttoleft.png cmd/32/pararighttoleft.png
-cmd/32/tabledeselectall.png cmd/32/dbviewtablenames.png
 cmd/32/tableevents.png cmd/32/animationeffects.png
 
 cmd/lc_renametable.png cmd/lc_name.png
 cmd/lc_settabbgcolor.png cmd/lc_backgroundcolor.png
 cmd/lc_sheetrighttoleft.png cmd/lc_pararighttoleft.png
-cmd/lc_tabledeselectall.png cmd/lc_dbviewtablenames.png
 cmd/lc_tableevents.png cmd/lc_animationeffects.png
-cmd/lc_tableselectall.png cmd/lc_selecttable.png
 
 cmd/sc_renametable.png cmd/sc_name.png
 cmd/sc_settabbgcolor.png cmd/sc_backgroundcolor.png
 cmd/sc_sheetrighttoleft.png cmd/sc_pararighttoleft.png
-cmd/sc_tabledeselectall.png cmd/sc_dbviewtablenames.png
 cmd/sc_tableevents.png cmd/sc_animationeffects.png
-cmd/sc_tableselectall.png cmd/sc_selecttable.png
 
 # calc context menu rowheader
 # ==============================================
