@@ -1414,6 +1414,10 @@ cmd/sc_grid.png cmd/sc_insertspreadsheet.png
 cmd/sc_gridmenu.png cmd/sc_gridvisible.png
 cmd/sc_insertgridcontrol.png cmd/sc_insertspreadsheet.png
 
+# Crop
+cmd/32/grafattrcrop.png cmd/32/crop.png
+cmd/lc_grafattrcrop.png cmd/lc_crop.png
+cmd/sc_grafattrcrop.png cmd/sc_crop.png
 
 # Extrusion Rotate
 cmd/32/rulerrows.png cmd/32/extrusiontiltleft.png
