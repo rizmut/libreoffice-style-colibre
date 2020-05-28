@@ -2477,8 +2477,6 @@ cmd/sc_rowoperations.png cmd/sc_entirerow.png
 
 cmd/sc_cellprotection.png cmd/sc_protect.png
 cmd/lc_cellprotection.png cmd/lc_protect.png
-cmd/sc_toolprotectiondocument.png cmd/sc_protect.png
-cmd/lc_toolprotectiondocument.png cmd/lc_protect.png
 
 # calc context menu sheettab
 # ==============================================

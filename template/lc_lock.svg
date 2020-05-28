@@ -20,7 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,9 +41,9 @@
      showgrid="true"
      inkscape:pagecheckerboard="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:zoom="30.111579"
-     inkscape:cx="19.62755"
-     inkscape:cy="6.6700376"
+     inkscape:zoom="22.581272"
+     inkscape:cx="9.6146317"
+     inkscape:cy="5.7653836"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,8 +54,10 @@
   </sodipodi:namedview>
   <path
      style="fill:#922e9b"
-     d="m 18,10 c -2.197294,0 -4,1.802706 -4,4 v 1 c -1.090703,0 -2,0.909297 -2,2 v 5 c 0,1.090703 0.909297,2 2,2 h 8 c 1.090703,0 2,-0.909297 2,-2 v -5 c 0,-1.085491 -0.900244,-2.000229 -2,-1.994141 V 15 14 c 0,-2.197294 -1.802706,-4 -4,-4 z m 0,3 c 0.564128,0 1,0.435872 1,1 v 1 h -2 v -1 c 0,-0.564128 0.435872,-1 1,-1 z"
-     id="path863" />
+     d="m 18,10 c -2.197294,0 -4,1.802706 -4,4 v 1 c -1.090703,0 -2,0.909297 -2,2 v 5 c 0,1.090703 0.909297,2 2,2 h 8 c 1.090703,0 2,-0.909297 2,-2 v -5 c 0,-1.085491 -0.900244,-2.000229 -2,-1.994141 V 15 14 c 0,-2.197294 -1.802706,-4 -4,-4 z"
+     id="path863"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sscssssssccss" />
   <g
      id="g861">
     <path
