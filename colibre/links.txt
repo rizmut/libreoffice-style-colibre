@@ -299,11 +299,6 @@ cmd/sc_convertinto3dlathefast.png cmd/sc_convertinto3dlathe.png
 cmd/sc_objects3dtoolbox.png cmd/sc_cube.png
 cmd/sc_view3d.png cmd/sc_cube.png
 
-# Control
-cmd/32/optionstreedialog.png cmd/32/controlproperties.png
-cmd/lc_optionstreedialog.png cmd/lc_controlproperties.png
-cmd/sc_optionstreedialog.png cmd/sc_controlproperties.png
-
 # Formatmenu
 cmd/32/anchormenu.png cmd/32/toggleanchortype.png
 cmd/32/conditionalformatmenu.png cmd/32/colorscaleformatdialog.png
@@ -317,7 +312,7 @@ cmd/32/textalign.png cmd/32/alignblock.png
 cmd/lc_anchormenu.png cmd/lc_toggleanchortype.png
 cmd/lc_conditionalformatmenu.png cmd/lc_colorscaleformatdialog.png
 cmd/lc_formatbulletsmenu.png cmd/lc_defaultbullet.png
-cmd/lc_formatframemenu.png cmd/lc_formatline.png
+cmd/lc_formatframemenu.png cmd/lc_framedialog.png
 cmd/lc_formatimagemenu.png cmd/lc_graphicdialog.png
 cmd/lc_formatspacingmenu.png cmd/lc_spacepara15.png
 cmd/lc_formattextmenu.png cmd/lc_charfontname.png
@@ -326,7 +321,7 @@ cmd/lc_textalign.png cmd/lc_alignblock.png
 cmd/sc_anchormenu.png cmd/sc_toggleanchortype.png
 cmd/sc_conditionalformatmenu.png cmd/sc_colorscaleformatdialog.png
 cmd/sc_formatbulletsmenu.png cmd/sc_defaultbullet.png
-cmd/sc_formatframemenu.png cmd/sc_formatline.png
+cmd/sc_formatframemenu.png cmd/sc_framedialog.png
 cmd/sc_formatimagemenu.png cmd/sc_graphicdialog.png
 cmd/sc_formatspacingmenu.png cmd/sc_spacepara15.png
 cmd/sc_formattextmenu.png cmd/sc_charfontname.png
@@ -1573,7 +1568,6 @@ cmd/sc_printrangesmenu.png cmd/sc_defineprintarea.png
 # Reload
 cmd/32/draw.png cmd/32/reload.png
 cmd/32/refresh.png cmd/32/reload.png
-cmd/32/refreshformcontrol.png cmd/32/reload.png
 cmd/32/repaginate.png cmd/32/insertpagenumberfield.png
 cmd/32/updateall.png cmd/32/reload.png
 cmd/32/updateallindexes.png cmd/32/insertmultiindex.png
@@ -1585,7 +1579,6 @@ cmd/32/updatemenu.png cmd/32/reload.png
 
 cmd/lc_draw.png cmd/lc_reload.png
 cmd/lc_refresh.png cmd/lc_reload.png
-cmd/lc_refreshformcontrol.png cmd/lc_reload.png
 cmd/lc_repaginate.png cmd/lc_insertpagenumberfield.png
 cmd/lc_updateall.png cmd/lc_reload.png
 cmd/lc_updateallindexes.png cmd/lc_insertmultiindex.png
@@ -1597,7 +1590,6 @@ cmd/lc_updatemenu.png cmd/lc_reload.png
 
 cmd/sc_draw.png cmd/sc_reload.png
 cmd/sc_refresh.png cmd/sc_reload.png
-cmd/sc_refreshformcontrol.png cmd/sc_reload.png
 cmd/sc_repaginate.png cmd/sc_insertpagenumberfield.png
 cmd/sc_updateall.png cmd/sc_reload.png
 cmd/sc_updateallindexes.png cmd/sc_insertmultiindex.png
@@ -1736,7 +1728,7 @@ cmd/lc_dsbinsertcolumns.png cmd/lc_insertfieldctrl.png
 cmd/lc_inserttoolbox.png cmd/lc_dataimport.png
 cmd/lc_savesimple.png cmd/lc_save.png
 cmd/lc_sbabrwinsert.png cmd/lc_insertfieldctrl.png
-cmd/lc_showbrowser.png cmd/lc_controlproperties.png
+cmd/lc_showbrowser.png cmd/lc_controlpropertiesg.png
 cmd/lc_showpropbrowser.png cmd/lc_controlproperties.png
 
 cmd/sc_dsbdocumentdatasource.png cmd/sc_sbaexecutesql.png
@@ -2173,7 +2165,7 @@ sd/res/waiticon.png cmd/sc_mediapause.png
 # sfx2
 # ==============================================
 sfx2/res/actionaction012.png cmd/lc_recsearch.png
-sfx2/res/actionaction013.png cmd/lc_controlproperties.png
+sfx2/res/actionaction013.png cmd/lc_optionstreedialog.png
 sfx2/res/actiontemplates015.png cmd/lc_ok.png
 sfx2/res/actiontemplates016.png cmd/lc_configuredialog.png
 sfx2/res/actiontemplates018.png cmd/lc_delete.png
@@ -2655,19 +2647,16 @@ cmd/sc_notecellstyles.png cmd/sc_showannotations.png
 # menubar icons
 cmd/32/com.sun.star.deployment.ui.packagemanagerdialog.png cmd/32/insertplugin.png
 cmd/32/focustofindbar.png cmd/32/recsearch.png
-cmd/32/formatobjectmenu.png cmd/32/text.png
 cmd/32/macroorganizer%3ftabid%3ashort=1.png cmd/32/open.png
 cmd/32/textattributes.png cmd/32/fontdialog.png
 
 cmd/lc_com.sun.star.deployment.ui.packagemanagerdialog.png cmd/lc_insertplugin.png
 cmd/lc_focustofindbar.png cmd/lc_recsearch.png
-cmd/lc_formatobjectmenu.png cmd/lc_text.png
 cmd/lc_macroorganizer%3ftabid%3ashort=1.png cmd/lc_open.png
 cmd/lc_textattributes.png cmd/lc_fontdialog.png
 
 cmd/sc_com.sun.star.deployment.ui.packagemanagerdialog.png cmd/sc_insertplugin.png
 cmd/sc_focustofindbar.png cmd/sc_recsearch.png
-cmd/sc_formatobjectmenu.png cmd/sc_framedialog.png
 cmd/sc_macroorganizer%3ftabid%3ashort=1.png cmd/sc_open.png
 cmd/sc_textattributes.png cmd/sc_fontdialog.png
 
