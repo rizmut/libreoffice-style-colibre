@@ -2161,8 +2161,6 @@ sd/res/graphic.png cmd/sc_graphic.png
 
 sd/res/breakplayingblue_16.png cmd/sc_mediapause.png
 sd/res/comments_indicator.png cmd/sc_showannotations.png
-sd/res/get1obj.png cmd/sc_selectobject.png
-sd/res/getallob.png cmd/sc_selectall.png
 sd/res/group.png cmd/sc_formatgroup.png
 sd/res/ole.png cmd/lc_insertobject.png
 sd/res/page.png cmd/lc_adddirect.png
@@ -2669,7 +2667,7 @@ cmd/lc_textattributes.png cmd/lc_fontdialog.png
 
 cmd/sc_com.sun.star.deployment.ui.packagemanagerdialog.png cmd/sc_insertplugin.png
 cmd/sc_focustofindbar.png cmd/sc_recsearch.png
-cmd/sc_formatobjectmenu.png cmd/sc_text.png
+cmd/sc_formatobjectmenu.png cmd/sc_framedialog.png
 cmd/sc_macroorganizer%3ftabid%3ashort=1.png cmd/sc_open.png
 cmd/sc_textattributes.png cmd/sc_fontdialog.png
 
