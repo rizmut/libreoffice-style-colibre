@@ -288,14 +288,17 @@ cmd/sc_texttoolbox.png cmd/sc_text.png
 
 # 3d
 cmd/32/convertinto3dlathefast.png cmd/32/convertinto3dlathe.png
+cmd/32/extrusiontoggle.png cmd/32/convertinto3d.png
 cmd/32/objects3dtoolbox.png cmd/32/cube.png
 cmd/32/view3d.png cmd/32/cube.png
 
 cmd/lc_convertinto3dlathefast.png cmd/lc_convertinto3dlathe.png
+cmd/lc_extrusiontoggle.png cmd/lc_convertinto3d.png
 cmd/lc_objects3dtoolbox.png cmd/lc_cube.png
 cmd/lc_view3d.png cmd/lc_cube.png
 
 cmd/sc_convertinto3dlathefast.png cmd/sc_convertinto3dlathe.png
+cmd/sc_extrusiontoggle.png cmd/sc_convertinto3d.png
 cmd/sc_objects3dtoolbox.png cmd/sc_cube.png
 cmd/sc_view3d.png cmd/sc_cube.png
 
@@ -1451,10 +1454,9 @@ svx/res/legtyp2.png cmd/sc_calloutshapes.line-callout-1.png
 svx/res/legtyp3.png cmd/sc_calloutshapes.line-callout-2.png
 
 # 3d
-svx/res/3dgeo.png cmd/lc_diagramaxisxyz.png
-svx/res/3drepres.png cmd/lc_fillshadow.png
-svx/res/3dtextur.png cmd/lc_graphicfilterpopart.png
-svx/res/3dlight.png cmd/lc_graphicfiltersolarize.png
+svx/res/3drepres.png cmd/sc_fillshadow.png
+svx/res/3dtextur.png cmd/sc_graphicfilterpopart.png
+svx/res/3dlight.png cmd/sc_graphicfiltersolarize.png
 
 # Presentation
 cmd/32/diaauto.png cmd/32/dia.png
@@ -2267,12 +2269,11 @@ svx/res/fontworkalignstretch_26.png cmd/lc_text_marquee.png
 svx/res/fw07.png cmd/sc_alignleft.png
 svx/res/fw08.png cmd/sc_alignhorizontalcenter.png
 svx/res/fw09.png cmd/sc_alignright.png
-svx/res/graphic.png cmd/lc_graphic.png
+svx/res/graphic.png cmd/sc_graphic.png
 
-/svx/res/3dgeo.png cmd/lc_window3d.png
+/svx/res/3dgeo.png cmd/sc_window3d.png
 /svx/res/3dlight.png svx/res/lighton.png
-/svx/res/blend3d.png cmd/lc_sphere.png
-/svx/res/objects.png cmd/lc_insertdraw.png
+/svx/res/objects.png cmd/sc_insertdraw.png
 
 svx/res/id01.png cmd/sc_ok.png
 svx/res/id02.png cmd/sc_open.png
@@ -2281,6 +2282,7 @@ svx/res/id04.png cmd/sc_selectobject.png
 svx/res/id05.png cmd/sc_rect.png
 svx/res/id06.png cmd/sc_ellipse.png
 svx/res/id07.png cmd/sc_polygon.png
+svx/res/id08.png cmd/sc_freeline.png
 svx/res/id018.png cmd/sc_choosemacro.png
 svx/res/id019.png cmd/sc_modifyframe.png
 svx/res/id030.png cmd/sc_toggleobjectbeziermode.png
@@ -2292,7 +2294,6 @@ svx/res/id041.png cmd/sc_redo.png
 
 svx/res/lngcheck.png cmd/sc_spelling.png
 svx/res/luminanc.png cmd/sc_graphicfilterinvert.png
-svx/res/modula3d.png cmd/sc_sphere.png
 svx/res/notcertificate_16.png xmlsecurity/res/notcertificate_16.png
 
 svx/res/nu01.png cmd/sc_ok.png
@@ -2306,7 +2307,6 @@ svx/res/perspective_16.png cmd/lc_extrusiondirectionfloater.png
 svx/res/reloads.png cmd/sc_reload.png
 svx/res/rotate3d.png cmd/sc_convertinto3dlathe.png
 svx/res/signet_11x16.png xmlsecurity/res/certificate_16.png
-svx/res/sphere3d.png cmd/sc_sphere.png
 svx/res/wireframe_16.png cmd/sc_window3d.png
 svx/res/zoom_page_statusbar.png cmd/sc_zoompanning.png
 svx/res/reloads.png cmd/sc_reload.png
