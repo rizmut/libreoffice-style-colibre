@@ -2141,7 +2141,7 @@ sd/res/comments_indicator.png cmd/sc_showannotations.png
 sd/res/group.png cmd/sc_formatgroup.png
 sd/res/ole.png cmd/lc_insertobject.png
 sd/res/page.png cmd/lc_adddirect.png
-sd/res/pipette.png cmd/lc_bmpmask.png
+sd/res/pipette.png cmd/sc_bmpmask.png
 sd/res/playblue_16.png cmd/sc_runbasic.png
 sd/res/stopplayingblue_16.png cmd/sc_basicstop.png
 sd/res/time_16.png cmd/sc_timefield.png
