@@ -24,7 +24,7 @@ chart2/res/dataeditor_icon04.png cmd/sc_deletecolumns.png
 chart2/res/dataeditor_icon05.png cmd/sc_insertcellsright.png
 chart2/res/dataeditor_icon06.png cmd/sc_insertcellsdown.png
 chart2/res/dataeditor_icon07.png cmd/sc_insertcolumnsafter.png
-chart2/res/dataeditor_icon08.png cmd/sc_insertcolumns.png
+chart2/res/dataeditor_icon08.png cmd/sc_insertcolumnsafter.png
 chart2/res/dataeditor_icon09.png cmd/sc_insertrowsbefore.png
 chart2/res/netlinepoint_52x60.png chart2/res/net_52x60.png
 chart2/res/netlinepointstack_52x60.png chart2/res/netstack_52x60.png
@@ -93,6 +93,7 @@ cmd/32/fieldmenu.png cmd/32/addfield.png
 cmd/32/graphicmenu.png cmd/32/avmediaplayer.png
 cmd/32/insertauthorfield.png cmd/32/dbviewaliases.png
 cmd/32/insertavmedia.png cmd/32/avmediaplayer.png
+cmd/32/insertcolumns.png cmd/32/insertcolumnsafter.png
 cmd/32/insertctrl.png cmd/32/inserttable.png
 cmd/32/insertcurrencyfield.png cmd/32/currencyfield.png
 cmd/32/insertdatefield.png cmd/32/datefield.png
@@ -121,6 +122,7 @@ cmd/32/insertpagefooter.png cmd/32/insertfooter.png
 cmd/32/insertpageheader.png cmd/32/insertheader.png
 cmd/32/insertpatternfield.png cmd/32/patternfield.png
 cmd/32/insertpushbutton.png cmd/32/pushbutton.png
+cmd/32/insertrows.png cmd/32/insertrowsafter.png
 cmd/32/inserttextframe.png cmd/32/insertframe.png
 cmd/32/inserttimefield.png cmd/32/timefield.png
 cmd/32/insobjctrl.png cmd/32/newdoc.png
@@ -137,6 +139,7 @@ cmd/lc_fieldmenu.png cmd/lc_addfield.png
 cmd/lc_graphicmenu.png cmd/lc_avmediaplayer.png
 cmd/lc_insertauthorfield.png cmd/lc_dbviewaliases.png
 cmd/lc_insertavmedia.png cmd/lc_avmediaplayer.png
+cmd/lc_insertcolumns.png cmd/lc_insertcolumnsafter.png
 cmd/lc_insertctrl.png cmd/lc_inserttable.png
 cmd/lc_insertcurrencyfield.png cmd/lc_currencyfield.png
 cmd/lc_insertdatefield.png cmd/lc_datefield.png
@@ -165,6 +168,7 @@ cmd/lc_insertpagefooter.png cmd/lc_insertfooter.png
 cmd/lc_insertpageheader.png cmd/lc_insertheader.png
 cmd/lc_insertpatternfield.png cmd/lc_patternfield.png
 cmd/lc_insertpushbutton.png cmd/lc_pushbutton.png
+cmd/lc_insertrows.png cmd/lc_insertrowsafter.png
 cmd/lc_inserttextframe.png cmd/lc_insertframe.png
 cmd/lc_inserttimefield.png cmd/lc_timefield.png
 cmd/lc_insobjctrl.png cmd/lc_newdoc.png
@@ -174,12 +178,14 @@ cmd/lc_paragraphmenu.png cmd/lc_paragraphdialog.png
 cmd/lc_shapesmenu.png cmd/lc_insertdraw.png
 cmd/lc_tracechangemode.png cmd/lc_trackchanges.png
 cmd/lc_viewtrackchanges.png cmd/lc_showtrackedchanges.png
+
 cmd/sc_changesmenu.png cmd/sc_trackchanges.png
 cmd/sc_charactermenu.png cmd/sc_fontdialog.png
 cmd/sc_fieldmenu.png cmd/sc_addfield.png
 cmd/sc_graphicmenu.png cmd/sc_avmediaplayer.png
 cmd/sc_insertauthorfield.png cmd/sc_dbviewaliases.png
 cmd/sc_insertavmedia.png cmd/sc_avmediaplayer.png
+cmd/sc_insertcolumns.png cmd/sc_insertcolumnsafter.png
 cmd/sc_insertctrl.png cmd/sc_inserttable.png
 cmd/sc_insertcurrencyfield.png cmd/sc_currencyfield.png
 cmd/sc_insertdatefield.png cmd/sc_datefield.png
@@ -208,6 +214,7 @@ cmd/sc_insertpagefooter.png cmd/sc_insertfooter.png
 cmd/sc_insertpageheader.png cmd/sc_insertheader.png
 cmd/sc_insertpatternfield.png cmd/sc_patternfield.png
 cmd/sc_insertpushbutton.png cmd/sc_pushbutton.png
+cmd/sc_insertrows.png cmd/sc_insertrowsafter.png
 cmd/sc_inserttextframe.png cmd/sc_insertframe.png
 cmd/sc_inserttimefield.png cmd/sc_timefield.png
 cmd/sc_insobjctrl.png cmd/sc_newdoc.png
@@ -1180,8 +1187,8 @@ cmd/32/datapilotmenu.png cmd/32/datadatapilotrun.png
 cmd/32/functionbox.png cmd/32/dbviewfunctions.png
 cmd/32/groupoutlinemenu.png cmd/32/group.png
 cmd/32/functiondialog.png cmd/32/dbviewfunctions.png
-cmd/32/insertcolumnsmenu.png cmd/32/insertcolumns.png
-cmd/32/insertrowsmenu.png cmd/32/insertrows.png
+cmd/32/insertcolumnsmenu.png cmd/32/insertcolumnsafter.png
+cmd/32/insertrowsmenu.png cmd/32/insertrowsafter.png
 cmd/32/sheetcommentmenu.png cmd/32/showannotations.png
 
 cmd/lc_cellcontentsmenu.png cmd/lc_calculate.png
@@ -1189,8 +1196,8 @@ cmd/lc_datapilotmenu.png cmd/lc_datadatapilotrun.png
 cmd/lc_functionbox.png cmd/lc_dbviewfunctions.png
 cmd/lc_functiondialog.png cmd/lc_dbviewfunctions.png
 cmd/lc_groupoutlinemenu.png cmd/lc_group.png
-cmd/lc_insertcolumnsmenu.png cmd/lc_insertcolumns.png
-cmd/lc_insertrowsmenu.png cmd/lc_insertrows.png
+cmd/lc_insertcolumnsmenu.png cmd/lc_insertcolumnsafter.png
+cmd/lc_insertrowsmenu.png cmd/lc_insertrowsafter.png
 cmd/lc_sheetcommentmenu.png cmd/lc_showannotations.png
 
 cmd/sc_cellcontentsmenu.png cmd/sc_calculate.png
@@ -1198,8 +1205,8 @@ cmd/sc_datapilotmenu.png cmd/sc_datadatapilotrun.png
 cmd/sc_functionbox.png cmd/sc_dbviewfunctions.png
 cmd/sc_functiondialog.png cmd/sc_dbviewfunctions.png
 cmd/sc_groupoutlinemenu.png cmd/sc_group.png
-cmd/sc_insertcolumnsmenu.png cmd/sc_insertcolumns.png
-cmd/sc_insertrowsmenu.png cmd/sc_insertrows.png
+cmd/sc_insertcolumnsmenu.png cmd/sc_insertcolumnsafter.png
+cmd/sc_insertrowsmenu.png cmd/sc_insertrowsafter.png
 cmd/sc_sheetcommentmenu.png cmd/sc_showannotations.png
 
 # calc tabs
@@ -1534,21 +1541,21 @@ cmd/sc_arrangemenu.png cmd/sc_bringtofront.png
 # Calc
 cmd/32/fieldmenu.png cmd/32/insertfieldctrl.png
 cmd/32/insertcell.png cmd/32/insertcellsright.png
-cmd/32/insertrowsmenu.png cmd/32/insertrows.png
+cmd/32/insertrowsmenu.png cmd/32/insertrowsafter.png
 cmd/32/mergecellsmenu.png cmd/32/togglemergecells.png
 cmd/32/numberformatmenu.png cmd/32/numberformatstandard.png
 cmd/32/printrangesmenu.png cmd/32/defineprintarea.png
 
 cmd/lc_fieldmenu.png cmd/lc_insertfieldctrl.png
 cmd/lc_insertcell.png cmd/lc_insertcellsright.png
-cmd/lc_insertrowsmenu.png cmd/lc_insertrows.png
+cmd/lc_insertrowsmenu.png cmd/lc_insertrowsafter.png
 cmd/lc_mergecellsmenu.png cmd/lc_togglemergecells.png
 cmd/lc_numberformatmenu.png cmd/lc_numberformatstandard.png
 cmd/lc_printrangesmenu.png cmd/lc_defineprintarea.png
 
 cmd/sc_fieldmenu.png cmd/sc_insertfieldctrl.png
 cmd/sc_insertcell.png cmd/sc_insertcellsright.png
-cmd/sc_insertrowsmenu.png cmd/sc_insertrows.png
+cmd/sc_insertrowsmenu.png cmd/sc_insertrowsafter.png
 cmd/sc_mergecellsmenu.png cmd/sc_togglemergecells.png
 cmd/sc_numberformatmenu.png cmd/sc_numberformatstandard.png
 cmd/sc_printrangesmenu.png cmd/sc_defineprintarea.png
