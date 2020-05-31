@@ -2074,7 +2074,7 @@ sc/res/lc26051.png cmd/lc_ok.png
 sc/res/na09.png cmd/sc_animationeffects.png
 sc/res/na010.png sw/res/sc20234.png
 sc/res/na011.png cmd/sc_ok.png
-sc/res/nc01.png cmd/sc_dbviewtablenames.png
+sc/res/nc01.png cmd/sc_show.png
 sc/res/nc02.png cmd/sc_label.png
 sc/res/nc03.png cmd/sc_viewdatasourcebrowser.png
 sc/res/nc04.png cmd/sc_insertgraphic.png
@@ -2130,7 +2130,6 @@ sd/res/nv03.png cmd/sc_firstrecord.png
 sd/res/nv04.png cmd/sc_prevrecord.png
 sd/res/nv05.png cmd/sc_nextrecord.png
 sd/res/nv06.png cmd/sc_lastrecord.png
-sd/res/nv08.png cmd/sc_copy.png
 sd/res/nv09.png cmd/sc_insertbookmark.png
 sd/res/nv010.png cmd/sc_inserthyperlink.png
 sd/res/graphic.png cmd/sc_graphic.png
@@ -2139,8 +2138,8 @@ sd/res/sf02.png cmd/sc_presentationlayout.png
 sd/res/breakplayingblue_16.png cmd/sc_mediapause.png
 sd/res/comments_indicator.png cmd/sc_showannotations.png
 sd/res/group.png cmd/sc_formatgroup.png
-sd/res/ole.png cmd/lc_insertobject.png
-sd/res/page.png cmd/lc_adddirect.png
+sd/res/ole.png cmd/sc_insertobject.png
+sd/res/page.png cmd/sc_adddirect.png
 sd/res/pipette.png cmd/sc_bmpmask.png
 sd/res/playblue_16.png cmd/sc_runbasic.png
 sd/res/stopplayingblue_16.png cmd/sc_basicstop.png
@@ -2372,6 +2371,8 @@ sw/res/sc20172.png cmd/sc_prevrecord.png
 sw/res/sc20173.png cmd/sc_nextrecord.png
 sw/res/sc20174.png cmd/sc_upsearch.png
 sw/res/sc20175.png cmd/sc_nextrecord.png
+sw/res/sc20177.png cmd/sc_insertfooter.png
+sw/res/sc20179.png cmd/sc_insertheader.png
 sw/res/sc20182.png cmd/sc_toggleanchortype.png
 sw/res/sc20183.png cmd/sc_setreminder.png
 sw/res/sc20186.png cmd/sc_prevrecord.png
@@ -2384,13 +2385,9 @@ sw/res/sc20249.png cmd/sc_navigator.png
 sw/res/sc20556.png cmd/sc_dbviewfunctions.png
 sw/res/sc20557.png cmd/sc_cancel.png
 sw/res/sc20558.png cmd/sc_ok.png
-
-sw/res/sf01.png cmd/sc_controlcodes.png
-sw/res/sf02.png cmd/sc_charfontname.png
-sw/res/sf03.png cmd/sc_insertframe.png
-sw/res/sf04.png cmd/sc_showsinglepage.png
-sw/res/sf05.png cmd/sc_defaultbullet.png
-sw/res/sf06.png cmd/sc_inserttable.png
+sw/res/sf02.png cmd/sc_designerdialog.png
+sw/res/sf04.png sc/res/sf02.png
+sw/res/sf06.png cmd/sc_autoformat.png
 
 sw/res/sidebar/pageproppanel/last_custom_common.png svx/res/symphony/last_custom_common.png
 sw/res/sidebar/pageproppanel/last_custom_common_grey.png svx/res/symphony/last_custom_common_grey.png
@@ -2425,7 +2422,7 @@ sw/res/all_right.png cmd/sc_lastrecord.png
 sw/res/one_left.png cmd/sc_prevrecord.png
 sw/res/one_right.png cmd/sc_nextrecord.png
 sw/res/page_break.png cmd/lc_insertpagebreak.png
-sw/res/styfamnu.png cmd/sc_defaultbullet.png
+sw/res/styfamnu.png sw/res/sf05.png
 
 # split cells duplicates
 sw/res/zetlhor2.png svx/res/zetlhor2.png
