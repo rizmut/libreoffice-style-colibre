@@ -1440,7 +1440,7 @@ svx/res/legtyp3.png cmd/sc_calloutshapes.line-callout-2.png
 # 3d
 svx/res/3drepres.png cmd/sc_fillshadow.png
 svx/res/3dtextur.png cmd/sc_graphicfilterpopart.png
-svx/res/3dlight.png cmd/sc_graphicfiltersolarize.png
+svx/res/3dlight.png cmd/sc_extrusionlightingfloater.png
 
 # Presentation
 cmd/32/diaauto.png cmd/32/dia.png
