@@ -1433,22 +1433,6 @@ cmd/sc_rulerrows.png cmd/sc_extrusiontiltleft.png
 cmd/sc_rulerrowsvertical.png cmd/sc_extrusiontiltright.png
 
 # Light
-svx/res/lightofffrombottom_22.png svx/res/light.png
-svx/res/lightofffrombottomleft_22.png svx/res/light.png
-svx/res/lightofffrombottomright_22.png svx/res/light.png
-svx/res/lightofffromleft_22.png svx/res/light.png
-svx/res/lightofffromright_22.png svx/res/light.png
-svx/res/lightofffromtop_22.png svx/res/light.png
-svx/res/lightofffromtopleft_22.png svx/res/light.png
-svx/res/lightofffromtopright_22.png svx/res/light.png
-svx/res/lightonfrombottom_22.png svx/res/lighton.png
-svx/res/lightonfrombottomleft_22.png svx/res/lighton.png
-svx/res/lightonfrombottomright_22.png svx/res/lighton.png
-svx/res/lightonfromleft_22.png svx/res/lighton.png
-svx/res/lightonfromright_22.png svx/res/lighton.png
-svx/res/lightonfromtop_22.png svx/res/lighton.png
-svx/res/lightonfromtopleft_22.png svx/res/lighton.png
-svx/res/lightonfromtopright_22.png svx/res/lighton.png
 svx/res/legtyp1.png cmd/sc_calloutshapes.line-callout-3.png
 svx/res/legtyp2.png cmd/sc_calloutshapes.line-callout-1.png
 svx/res/legtyp3.png cmd/sc_calloutshapes.line-callout-2.png
@@ -2306,7 +2290,6 @@ svx/res/reloads.png cmd/sc_reload.png
 svx/res/rotate3d.png cmd/sc_convertinto3dlathe.png
 svx/res/signet_11x16.png xmlsecurity/res/certificate_16.png
 svx/res/wireframe_16.png cmd/sc_window3d.png
-svx/res/zoom_page_statusbar.png cmd/sc_zoompanning.png
 svx/res/reloads.png cmd/sc_reload.png
 
 svx/res/symphony/rotate_left.png cmd/sc_rotateleft.png
