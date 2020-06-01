@@ -1651,7 +1651,7 @@ cmd/32/starchartdialog.png cmd/32/drawchart.png
 cmd/32/tableautofitmenu.png cmd/32/setoptimalrowheight.png
 cmd/32/tabledeletemenu.png cmd/32/deletetable.png
 cmd/32/tableinsertmenu.png cmd/32/insertrowsafter.png
-cmd/32/tablemenu.png cmd/32/inserttable.png
+cmd/32/tablemenu.png cmd/32/tabledialog.png
 cmd/32/tableselectmenu.png cmd/32/selecttable.png
 
 cmd/lc_inscellsctrl.png cmd/lc_inserttable.png
@@ -1660,7 +1660,7 @@ cmd/lc_starchartdialog.png cmd/lc_drawchart.png
 cmd/lc_tableautofitmenu.png cmd/lc_setoptimalrowheight.png
 cmd/lc_tabledeletemenu.png cmd/lc_deletetable.png
 cmd/lc_tableinsertmenu.png cmd/lc_insertrowsafter.png
-cmd/lc_tablemenu.png cmd/lc_inserttable.png
+cmd/lc_tablemenu.png cmd/lc_tabledialog.png
 cmd/lc_tableselectmenu.png cmd/lc_selecttable.png
 
 cmd/sc_inscellsctrl.png cmd/sc_inserttable.png
@@ -1669,7 +1669,7 @@ cmd/sc_starchartdialog.png cmd/sc_drawchart.png
 cmd/sc_tableautofitmenu.png cmd/sc_setoptimalrowheight.png
 cmd/sc_tabledeletemenu.png cmd/sc_deletetable.png
 cmd/sc_tableinsertmenu.png cmd/sc_insertrowsafter.png
-cmd/sc_tablemenu.png cmd/sc_inserttable.png
+cmd/sc_tablemenu.png cmd/sc_tabledialog.png
 cmd/sc_tableselectmenu.png cmd/sc_selecttable.png
 
 # Help
