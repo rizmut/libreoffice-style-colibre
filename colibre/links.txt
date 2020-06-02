@@ -2144,10 +2144,8 @@ res/sx03163.png res/ott_16_8.png
 res/sx03164.png res/harddisk_16.png
 res/sx03165.png cmd/sc_save.png
 res/sx03167.png cmd/sc_openremote.png
-res/sx03187.png cmd/sc_inserttable.png
-res/sx03188.png res/sx03126.png
+res/sx03188.png cmd/sc_dbviewtables.png
 res/sx03189.png cmd/sc_open.png
-res/sx03201.png cmd/sc_copy.png
 res/sx03202.png cmd/sc_dbviewqueries.png
 res/sx03218.png res/sx03217.png
 res/sx03219.png res/sx03125.png
