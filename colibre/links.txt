@@ -2088,7 +2088,6 @@ res/lx03222.png res/lx03217.png
 res/lx03227.png res/lx03217.png
 res/lx03228.png res/lx03217.png
 res/lx03256.png cmd/lc_insertplugin.png
-res/mainapp_16_8.png cmd/sc_showsinglepage.png
 res/mainapp_32.png res/mainapp_32_8.png
 res/newdoc.png cmd/lc_open.png
 res/oleobj.png cmd/lc_insertobject.png
@@ -2140,8 +2139,8 @@ res/sx03155.png res/sx03125.png
 res/sx03156.png res/odt_16_8.png
 res/sx03158.png res/sx03125.png
 res/sx03160.png res/sx03125.png
-res/sx03162.png res/sx03156.png
-res/sx03163.png res/sx03156.png
+res/sx03162.png res/odt_16_8.png
+res/sx03163.png res/ott_16_8.png
 res/sx03164.png res/harddisk_16.png
 res/sx03165.png cmd/sc_save.png
 res/sx03167.png cmd/sc_openremote.png
