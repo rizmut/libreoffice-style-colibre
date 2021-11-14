@@ -298,6 +298,7 @@ cmd/32/formatframemenu.png cmd/32/framedialog.png
 cmd/32/formatimagemenu.png cmd/32/graphic.png
 cmd/32/formatspacingmenu.png cmd/32/spacepara15.png
 cmd/32/formattextmenu.png cmd/32/charfontname.png
+cmd/32/spacepara115.png cmd/32/spacepara1.png
 cmd/32/textalign.png cmd/32/alignblock.png
 
 cmd/lc_anchormenu.png cmd/lc_toggleanchortype.png
@@ -307,6 +308,7 @@ cmd/lc_formatframemenu.png cmd/lc_framedialog.png
 cmd/lc_formatimagemenu.png cmd/lc_graphicdialog.png
 cmd/lc_formatspacingmenu.png cmd/lc_spacepara15.png
 cmd/lc_formattextmenu.png cmd/lc_charfontname.png
+cmd/lc_spacepara115.png cmd/lc_spacepara1.png
 cmd/lc_textalign.png cmd/lc_alignblock.png
 
 cmd/sc_anchormenu.png cmd/sc_toggleanchortype.png
@@ -316,6 +318,7 @@ cmd/sc_formatframemenu.png cmd/sc_framedialog.png
 cmd/sc_formatimagemenu.png cmd/sc_graphicdialog.png
 cmd/sc_formatspacingmenu.png cmd/sc_spacepara15.png
 cmd/sc_formattextmenu.png cmd/sc_charfontname.png
+cmd/sc_spacepara115.png cmd/sc_spacepara1.png
 cmd/sc_textalign.png cmd/sc_alignblock.png
 
 # Url
@@ -2504,7 +2507,7 @@ sw/res/re04.png cmd/sc_protect.png
 sw/res/sc20175.png cmd/sc_nextrecord.png
 sw/res/sc20177.png cmd/sc_insertfooter.png
 sw/res/sc20179.png cmd/sc_insertheader.png
-sw/res/sc20182.png cmd/sc_insertfootnote.png
+sw/res/sc20182.png cmd/sc_toggleanchortype.png
 sw/res/sc20183.png cmd/sc_setreminder.png
 sw/res/sc20186.png cmd/sc_prevrecord.png
 sw/res/sc20233.png cmd/sc_ok.png
@@ -2658,22 +2661,16 @@ cmd/sc_namegroup.png cmd/sc_definename.png
 # calc toolbar draw
 # ===============================================
 cmd/32/convertmenu.png cmd/32/bezierconvert.png
-cmd/32/deleteshapehyperlink.png cmd/32/removehyperlink.png
-cmd/32/editshapehyperlink.png cmd/32/inserthyperlink.png
 cmd/32/mirrormenu.png cmd/32/rotateleft.png
 cmd/32/openhyperlinkoncursor.png cmd/32/inserthyperlink.png
 cmd/32/rotateflipmenu.png cmd/32/rotateleft.png
 
 cmd/lc_convertmenu.png cmd/lc_bezierconvert.png
-cmd/lc_deleteshapehyperlink.png cmd/lc_removehyperlink.png
-cmd/lc_editshapehyperlink.png cmd/lc_inserthyperlink.png
 cmd/lc_mirrormenu.png cmd/lc_rotateleft.png
 cmd/lc_openhyperlinkoncursor.png cmd/lc_inserthyperlink.png
 cmd/lc_rotateflipmenu.png cmd/lc_rotateleft.png
 
 cmd/sc_convertmenu.png cmd/sc_bezierconvert.png
-cmd/sc_deleteshapehyperlink.png cmd/sc_removehyperlink.png
-cmd/sc_editshapehyperlink.png cmd/sc_inserthyperlink.png
 cmd/sc_mirrormenu.png cmd/sc_rotateleft.png
 cmd/sc_openhyperlinkoncursor.png cmd/sc_inserthyperlink.png
 cmd/sc_rotateflipmenu.png cmd/sc_rotateleft.png
@@ -2752,3 +2749,8 @@ cmd/sc_librelogo-goforward.png cmd/sc_arrowshapes.up-arrow.png
 cmd/sc_librelogo-run.png cmd/sc_runbasic.png
 cmd/sc_librelogo-stop.png cmd/sc_basicstop.png
 cmd/sc_librelogo-translate.png cmd/sc_editglossary.png
+
+# Draw/Redaction Toolbar
+cmd/32/redactionpreviewexport.png cmd/32/exportdirecttopdf.png
+cmd/lc_redactionpreviewexport.png cmd/lc_exportdirecttopdf.png
+cmd/sc_redactionpreviewexport.png cmd/sc_exportdirecttopdf.png
