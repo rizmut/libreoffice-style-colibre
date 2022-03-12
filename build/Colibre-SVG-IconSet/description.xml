@@ -11,7 +11,7 @@
         <lo:LibreOffice-minimal-version d:name="LibreOffice 6.0" value="6.0"/>
     </dependencies>
     <publisher>
-	    <name xlink:href="https://sundara-os.blogspot.co.id">Rizal Muttaqin</name>
+	    <name xlink:href="https://github.com/rizmut">Rizal Muttaqin</name>
     </publisher>
     <icon>
         <default xlink:href="icons/Colibre-Theme.png"/>
