@@ -26,7 +26,7 @@ cd libreoffice-style-colibre
 
 ---
 
-In any case, you need to enable the theme: open the options __Tools__ → __Options__ (or __Alt__ + __F12__) then go to __LibreOffice__ → __View__ → __Icon style__ and select __Yaru__.
+In any case, you need to enable the theme: open the options __Tools__ → __Options__ (or __Alt__ + __F12__) then go to __LibreOffice__ → __View__ → __Icon style__ and select __Colibre__,  __Colibre (dark)__, __Colibre (SVG)__ or __Colibre (SVG + dark)__ .
 
 ## Remove
 
@@ -41,4 +41,3 @@ If you want to remove an installation made with the script just execute the remo
 ```bash
 ./remove-colibre.sh
 ```
-
