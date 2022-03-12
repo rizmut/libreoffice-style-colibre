@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<description
+ xmlns="http://openoffice.org/extensions/description/2006"
+ xmlns:dep="http://openoffice.org/extensions/description/2006"
+ xmlns:lo="http://libreoffice.org/extensions/description/2011"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+    <identifier value="org.iconset.breezedarksvg"/>
+	<version value="7.0.0"/>
+    <display-name name="Colibre Dark Icon Set"/>
+    <dependencies>
+        <lo:LibreOffice-minimal-version d:name="LibreOffice 6.0" value="6.0"/>
+    </dependencies>
+    <publisher>
+	    <name xlink:href="https://github.com/rizmut">Rizal Muttaqin</name>
+    </publisher>
+    <icon>
+        <default xlink:href="icons/Colibre-Dark-Theme.png"/>
+    </icon>
+    <extension-description>
+       <src xlink:href="pkg-desc/pkg-description.txt" />
+    </extension-description>
+    <registration>
+        <simple-license accept-by="admin">
+            <license-text xlink:href="registration/license.txt" lang="en" />
+        </simple-license>
+</registration>
+</description>

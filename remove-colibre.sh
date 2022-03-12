@@ -23,5 +23,7 @@ for dir in \
   [ -d "$dir" ] || continue
   sudo rm -f "$dir/images_colibre.zip"
   sudo rm -f "$dir/images_colibre_svg.zip"
+  sudo rm -f "$dir/images_colibre_dark.zip"
+  sudo rm -f "$dir/images_colibre_dark_svg.zip"
 done
 echo "=> Done!"
