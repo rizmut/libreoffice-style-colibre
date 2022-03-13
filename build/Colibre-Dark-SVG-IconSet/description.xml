@@ -4,8 +4,8 @@
  xmlns:dep="http://openoffice.org/extensions/description/2006"
  xmlns:lo="http://libreoffice.org/extensions/description/2011"
  xmlns:xlink="http://www.w3.org/1999/xlink">
-    <identifier value="org.iconset.breezedarksvg"/>
-	<version value="7.0.0"/>
+    <identifier value="org.iconset.colibredarksvg"/>
+	<version value="7.4.0"/>
     <display-name name="Colibre Dark SVG Icon Set"/>
     <dependencies>
         <lo:LibreOffice-minimal-version d:name="LibreOffice 6.0" value="6.0"/>
