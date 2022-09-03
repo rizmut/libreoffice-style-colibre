@@ -50,7 +50,7 @@ do
 #	echo "has the name: $fname"
 	fdir=$( dirname "$i")
 #	echo "and is in the directory: ${fdir##*/}"
-	inkscape -f "$i" -e "${i%.*}.png"
+	inkscape -p "$i" -o "${i%.*}.png"
 	optipng -o7 "${i%.*}.png"
 	#convert "$i" -quality 75 "$i"
 done
@@ -78,7 +78,7 @@ do
 #	echo "has the name: $fname"
     fdir=$( dirname "$i")
 #	echo "and is in the directory: ${fdir##*/}"
-	#inkscape -f "$i" -e "${i%.*}.png"
+	#inkscape -p "$i" -o "${i%.*}.png"
     sed -i -e 's/#3a3a38/#3a3a37/g' "$i" #darkest grey to intermediary darkest grey
     sed -i -e 's/#fafafa/#3a3a38/g' "$i" #white to darkest grey
     sed -i -e 's/#3a3a37/#fafafa/g' "$i" #intermediary darkest grey to white
@@ -120,7 +120,7 @@ do
 #	echo "has the name: $fname"
 	fdir=$( dirname "$i")
 #	echo "and is in the directory: ${fdir##*/}"
-	inkscape -f "$i" -e "${i%.*}.png"
+	inkscape -p "$i" -o "${i%.*}.png"
 	optipng -o7 "${i%.*}.png"
 	#convert "$i" -quality 75 "$i"
 done 
