@@ -112,6 +112,7 @@ cmd/32/inserttimefield.png cmd/32/timefield.png
 cmd/32/insobjctrl.png cmd/32/newdoc.png
 cmd/32/numberingmenu.png cmd/32/outlinebullet.png
 cmd/32/numericfield.png cmd/32/numberformatstandard.png
+cmd/32/pagenumberwizard.png cmd/32/insertpagenumberfield.png
 cmd/32/paragraphmenu.png cmd/32/paragraphdialog.png
 cmd/32/shapesmenu.png cmd/32/insertdraw.png
 cmd/32/tracechangemode.png cmd/32/trackchanges.png
@@ -157,6 +158,7 @@ cmd/lc_inserttimefield.png cmd/lc_timefield.png
 cmd/lc_insobjctrl.png cmd/lc_newdoc.png
 cmd/lc_numberingmenu.png cmd/lc_outlinebullet.png
 cmd/lc_numericfield.png cmd/lc_numberformatstandard.png
+cmd/lc_pagenumberwizard.png cmd/lc_insertpagenumberfield.png
 cmd/lc_paragraphmenu.png cmd/lc_paragraphdialog.png
 cmd/lc_shapesmenu.png cmd/lc_insertdraw.png
 cmd/lc_tracechangemode.png cmd/lc_trackchanges.png
@@ -202,6 +204,7 @@ cmd/sc_inserttimefield.png cmd/sc_timefield.png
 cmd/sc_insobjctrl.png cmd/sc_newdoc.png
 cmd/sc_numberingmenu.png cmd/sc_outlinebullet.png
 cmd/sc_numericfield.png cmd/sc_numberformatstandard.png
+cmd/sc_pagenumberwizard.png cmd/sc_insertpagenumberfield.png
 cmd/sc_paragraphmenu.png cmd/sc_paragraphdialog.png
 cmd/sc_shapesmenu.png cmd/sc_insertdraw.png
 cmd/sc_tracechangemode.png cmd/sc_trackchanges.png
