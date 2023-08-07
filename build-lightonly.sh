@@ -1,17 +1,32 @@
 #!/bin/bash
 #2020 by Rizal Muttaqin
 
+# check if needed software is available to the system
+prerequisites=true
+
 if ! command -v optipng >/dev/null
 then
     echo "Please install optipng"
-    exit 1
+    prerequisites=false
 fi
 
 if ! command -v svgcleaner >/dev/null
 then
     echo "Please install svgcleaner"
-    exit 1
+    prerequisites=false
 fi
+
+if ! command -v inkscape >/dev/null
+then
+    echo "Please install inkscape"
+    prerequisites=false
+fi
+
+# Exit if one or more packages are missing
+if [[ $prerequisites == false ]]; then
+  exit 1
+fi
+
 
 echo "=> Remove old PNG version"
 cp "colibre/links.txt" \
