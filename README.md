@@ -7,9 +7,19 @@ Colibre is the default icon theme for LibreOffice in Windows as well as in Libre
 ## Install
 ### From extension
 
-Since Libreoffice 6.0, you can install an icon pack with an extension. To do that, simply clone the repository and generate the extension with the build script at the root of the project:
+Since Libreoffice 6.0, you can install an icon pack with an extension. To do that, simply clone the repository and generate the extension with the build script at the root of the project.
 
-Open it with Libreoffice or, open __Tools__ → __Extension Manager__ (or __Ctrl__ + __Alt__ + __E__) then click on __Add__ and browse for local directory where the extension placed (under build subdirectory).
+### Building the icon set
+Execute either the `build.sh` or `build-lightonly.sh` (for light icons only) script and make sure, that the following packages are installed:
+- optipng
+- svgcleaner
+- inkscape
+
+
+After that, open the desired .oxt file from withing the build folder with Libreoffice or, open __Tools__ → __Extension Manager__ (or __Ctrl__ + __Alt__ + __E__) then click on __Add__ and browse for local directory where the extension placed (under build subdirectory).
+
+---
+
 ### From script
 
 ⚠ Installing from script do not work when using a confined version of Libreoffice (like snap packages), in that case you must use the extension.
